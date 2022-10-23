@@ -1,0 +1,32 @@
+<svg width="162" height="1440" viewBox="0 0 162 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_0_445" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="-1" width="1000" height="1441">
+<line y1="1439.5" x2="1000" y2="1439.5" stroke="#DEDEDE"/>
+<line y1="1379.5" x2="1000" y2="1379.5" stroke="#DEDEDE"/>
+<line y1="1319.5" x2="1000" y2="1319.5" stroke="#DEDEDE"/>
+<line y1="1259.5" x2="1000" y2="1259.5" stroke="#DEDEDE"/>
+<line y1="1199.5" x2="1000" y2="1199.5" stroke="#DEDEDE"/>
+<line y1="1139.5" x2="1000" y2="1139.5" stroke="#DEDEDE"/>
+<line y1="1079.5" x2="1000" y2="1079.5" stroke="#DEDEDE"/>
+<line y1="1019.5" x2="1000" y2="1019.5" stroke="#DEDEDE"/>
+<line y1="959.5" x2="1000" y2="959.5" stroke="#DEDEDE"/>
+<line y1="899.5" x2="1000" y2="899.5" stroke="#DEDEDE"/>
+<line y1="839.5" x2="1000" y2="839.5" stroke="#DEDEDE"/>
+<line y1="779.5" x2="1000" y2="779.5" stroke="#DEDEDE"/>
+<line y1="719.5" x2="1000" y2="719.5" stroke="#DEDEDE"/>
+<line y1="659.5" x2="1000" y2="659.5" stroke="#DEDEDE"/>
+<line y1="599.5" x2="1000" y2="599.5" stroke="#DEDEDE"/>
+<line y1="539.5" x2="1000" y2="539.5" stroke="#DEDEDE"/>
+<line y1="479.5" x2="1000" y2="479.5" stroke="#DEDEDE"/>
+<line y1="419.5" x2="1000" y2="419.5" stroke="#DEDEDE"/>
+<line y1="359.5" x2="1000" y2="359.5" stroke="#DEDEDE"/>
+<line y1="299.5" x2="1000" y2="299.5" stroke="#DEDEDE"/>
+<line y1="239.5" x2="1000" y2="239.5" stroke="#DEDEDE"/>
+<line y1="179.5" x2="1000" y2="179.5" stroke="#DEDEDE"/>
+<line y1="119.5" x2="1000" y2="119.5" stroke="#DEDEDE"/>
+<line y1="59.5" x2="1000" y2="59.5" stroke="#DEDEDE"/>
+</mask>
+<g mask="url(#mask0_0_445)">
+<rect width="161.886" height="1114.8" fill="#DEDEDE"/>
+</g>
+<line x1="0.5" x2="0.5" y2="1440" stroke="#DEDEDE"/>
+</svg>

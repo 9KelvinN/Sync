@@ -1,0 +1,41 @@
+.header {
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding-bottom: 1px;
+  padding-left: 62px;
+  padding-right: 8px;
+  display: flex;
+}
+
+.sync {
+  color: #fff;
+  margin-top: 9px;
+  margin-left: 8px;
+  margin-right: 360px;
+  font-family: Rubik;
+  font-size: 3.125rem;
+  font-weight: 700;
+  line-height: 59px;
+}
+
+.calendar {
+  color: #fff;
+  margin-bottom: 1px;
+  margin-left: 360px;
+  font-family: Rubik;
+  font-size: 1.563rem;
+  font-weight: 400;
+  line-height: 29px;
+}
+
+.button-instance-1 {
+  height: 50%;
+  flex-basis: 7%;
+}
+
+.profile-picture {
+  width: 65px;
+  height: 65px;
+  object-fit: cover;
+}

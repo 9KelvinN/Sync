@@ -1,0 +1,11 @@
+.all-day-event {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: stretch;
+  display: flex;
+}
+
+.calendar-event-instance-1 {
+  height: 100%;
+  flex-basis: 100%;
+}

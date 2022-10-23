@@ -1,0 +1,364 @@
+.creation-dialogue {
+  color: #fff;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(#002d71 0%, #002d7100 100%);
+  border: 1px solid #000;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  font-family: Rubik;
+  font-size: 2.188rem;
+  font-weight: 400;
+  line-height: 59px;
+  display: flex;
+}
+
+.header {
+  width: 100%;
+  border: 1px solid red;
+  flex-direction: row;
+  flex-basis: 9%;
+  justify-content: space-around;
+  align-items: center;
+  margin-bottom: 67px;
+  padding-bottom: 1px;
+  font-size: 1.563rem;
+  display: flex;
+}
+
+.sync {
+  margin-top: 9px;
+  margin-right: 342px;
+  font-size: 3.125rem;
+  font-weight: 700;
+}
+
+.calendar {
+  margin-left: 360px;
+  line-height: 29px;
+}
+
+.profile-picture {
+  width: 65px;
+  height: 65px;
+  object-fit: cover;
+}
+
+.title {
+  margin-bottom: 36px;
+  font-size: 3.75rem;
+  font-weight: 700;
+  line-height: 70px;
+}
+
+.flex-container {
+  width: 55%;
+  flex-direction: row;
+  flex-basis: 18%;
+  justify-content: space-between;
+  align-self: flex-start;
+  align-items: stretch;
+  margin-bottom: 4px;
+  margin-left: 186px;
+  font-size: 3.125rem;
+  font-weight: 700;
+  line-height: 29px;
+  display: flex;
+}
+
+.flex-container-1 {
+  text-align: center;
+  height: 100%;
+  flex-direction: column;
+  justify-content: space-between;
+  align-self: flex-end;
+  align-items: stretch;
+  margin-top: 1px;
+  margin-bottom: -1px;
+  font-weight: 400;
+  line-height: 59px;
+  display: flex;
+}
+
+.tnoxlkdwnkyrw {
+  margin-bottom: 10px;
+}
+
+.nile-pfp {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  margin-top: 5px;
+}
+
+.pulkit-pfp {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+}
+
+.flex-container-2 {
+  height: 95%;
+  flex-direction: column;
+  flex-basis: 17%;
+  justify-content: space-between;
+  align-items: stretch;
+  margin-bottom: 1px;
+  font-size: 1.563rem;
+  display: flex;
+}
+
+.flex-container-3 {
+  width: 100%;
+  flex-direction: row;
+  flex-basis: 28%;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 6px;
+  font-size: 2.188rem;
+  display: flex;
+}
+
+.invite {
+  margin-bottom: 2px;
+  line-height: 41px;
+}
+
+.rectangle-2 {
+  text-align: center;
+  height: 100%;
+  background: linear-gradient(#002d712b 0%, #fff0 100%);
+  border: 3px solid;
+  flex-direction: row;
+  flex-basis: 29%;
+  justify-content: center;
+  align-items: center;
+  padding-top: 2px;
+  padding-right: 1px;
+  font-size: 1.563rem;
+  display: flex;
+}
+
+.hbtjbauuqsdka {
+  margin-top: 1px;
+}
+
+.nile-camai {
+  margin-top: 3px;
+  font-weight: 400;
+}
+
+.pulkit-singhal {
+  font-weight: 400;
+}
+
+.type-selectionfixed-1-instance-1 {
+  height: 95%;
+  margin-bottom: 8px;
+  margin-left: 154px;
+}
+
+.type-selectionmeetup-instance-1 {
+  height: 95%;
+  margin-bottom: 8px;
+  margin-left: 2px;
+}
+
+.type-selectionfixed-instance-1 {
+  height: 95%;
+  margin-bottom: 8px;
+  margin-left: 3px;
+}
+
+.flex-container-4 {
+  width: 35%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 24px;
+  padding-bottom: 1px;
+  font-weight: 700;
+  display: flex;
+}
+
+.eqsqurdkgnzyj {
+  text-align: center;
+  font-size: 3.125rem;
+}
+
+.rectangle-16 {
+  height: 85%;
+  border: 1px solid;
+  flex-direction: row;
+  flex-basis: 88%;
+  justify-content: flex-start;
+  align-items: center;
+  margin-bottom: 2px;
+  padding-bottom: 1px;
+  padding-left: 3px;
+  font-weight: 400;
+  line-height: 41px;
+  display: flex;
+}
+
+.flex-container-5 {
+  width: 35%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 23px;
+  padding-bottom: 1px;
+  display: flex;
+}
+
+.tixusyzftdhhr {
+  text-align: center;
+  font-size: 3.125rem;
+}
+
+.rectangle-16-1 {
+  height: 85%;
+  border: 1px solid;
+  flex-direction: row;
+  flex-basis: 88%;
+  justify-content: flex-start;
+  align-items: flex-end;
+  margin-bottom: 2px;
+  padding-bottom: 1px;
+  padding-left: 3px;
+  line-height: 41px;
+  display: flex;
+}
+
+.flex-container-6 {
+  text-align: center;
+  width: 35%;
+  flex-direction: row;
+  flex-basis: 5%;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 24px;
+  font-size: 3.125rem;
+  font-weight: 700;
+  line-height: 29px;
+  display: flex;
+}
+
+.pradpiulgjnxh {
+  margin-right: 9px;
+  font-weight: 400;
+  line-height: 59px;
+}
+
+.rectangle-2-1 {
+  height: 100%;
+  background: linear-gradient(#002d712b 0%, #fff0 100%);
+  border: 3px solid;
+  flex-direction: row;
+  flex-basis: 17%;
+  justify-content: center;
+  align-self: flex-start;
+  align-items: center;
+  margin-bottom: 1px;
+  margin-left: 2px;
+  padding-right: 2px;
+  font-size: 1.563rem;
+  font-weight: 400;
+  display: flex;
+}
+
+.rectangle-2-2 {
+  height: 100%;
+  background: linear-gradient(#002d712b 0%, #fff0 100%);
+  border: 3px solid;
+  flex-direction: row;
+  flex-basis: 21%;
+  justify-content: center;
+  align-self: flex-start;
+  align-items: center;
+  margin-bottom: 1px;
+  padding-top: 2px;
+  padding-right: 1px;
+  font-size: 1.563rem;
+  font-weight: 400;
+  display: flex;
+}
+
+.num-700-pm {
+  margin-top: 1px;
+}
+
+.to {
+  margin-bottom: 1px;
+  font-size: 1.563rem;
+}
+
+.rectangle-2-3 {
+  height: 100%;
+  background: linear-gradient(#002d712b 0%, #fff0 100%);
+  border: 3px solid;
+  flex-direction: row;
+  flex-basis: 21%;
+  justify-content: center;
+  align-self: flex-start;
+  align-items: center;
+  margin-bottom: 1px;
+  padding-top: 2px;
+  font-size: 1.563rem;
+  font-weight: 400;
+  display: flex;
+}
+
+.num-800-pm {
+  margin-top: 1px;
+}
+
+.rectangle-2-4 {
+  height: 100%;
+  background: linear-gradient(#002d712b 0%, #fff0 100%);
+  border: 3px solid;
+  flex-direction: row;
+  flex-basis: 17%;
+  justify-content: center;
+  align-self: flex-start;
+  align-items: center;
+  margin-bottom: 1px;
+  padding-right: 2px;
+  font-size: 1.563rem;
+  font-weight: 400;
+  display: flex;
+}
+
+.flex-container-7 {
+  width: 35%;
+  flex-direction: row;
+  flex-basis: 12%;
+  justify-content: space-between;
+  align-items: stretch;
+  margin-bottom: 2px;
+  font-size: 3.125rem;
+  display: flex;
+}
+
+.fpgmmgctuszoc {
+  text-align: center;
+  margin-top: -1px;
+  margin-bottom: 1px;
+}
+
+.rectangle-16-2 {
+  height: 100%;
+  border: 1px solid;
+  flex-direction: row;
+  flex-basis: 88%;
+  justify-content: flex-start;
+  align-self: flex-end;
+  align-items: flex-end;
+  margin-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 2px;
+  font-size: 2.188rem;
+  line-height: 41px;
+  display: flex;
+}

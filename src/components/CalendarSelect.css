@@ -1,0 +1,23 @@
+.calendar-select {
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 1px;
+  padding-right: 1px;
+  display: flex;
+}
+
+.checkbox {
+  width: 25px;
+  height: 25px;
+  object-fit: cover;
+}
+
+.my-calendar {
+  color: #fff;
+  align-self: flex-end;
+  font-family: Rubik;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 28px;
+}
